@@ -1,0 +1,22 @@
+{
+  "name": "dndappfiles",
+  "description": "Files for the GM5 and Fight Club apps from Lion's Den",
+  "version": "1.0.0",
+  "main": "convert_to_json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hertzg/DnDAppFiles.git"
+  },
+  "author": "",
+  "license": "Unlicensed",
+  "bugs": {
+    "url": "https://github.com/hertzg/DnDAppFiles/issues"
+  },
+  "homepage": "https://github.com/hertzg/DnDAppFiles#readme",
+  "dependencies": {
+    "xml2json": "^0.10.0"
+  }
+}
